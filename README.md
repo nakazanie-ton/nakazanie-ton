@@ -1,18 +1,20 @@
 # corefather
 
-Software engineer focused on backend and full-stack development, integrations, and developer tooling.
+**AI Systems Engineer | LLM Agents, RAG & Reliable Workflows**
 
-I work primarily with **Python** and **TypeScript/JavaScript**, building APIs, data workflows, and web interfaces. My recent work spans database migrations, asynchronous integrations, and regression testing.
+## About
 
-## Current focus
+I build the systems around AI: tools that connect models to real applications, retrieval that grounds answers in evidence, and backend workflows that can recover when a task is interrupted. My work spans agent integrations, multi-stage research, resumable computation, and event-driven execution. I focus on clear boundaries between model reasoning, deterministic decisions, and external effects.
 
-- **Backend and APIs:** Python, FastAPI, and TypeScript/JavaScript services.
-- **Data and persistence:** PostgreSQL, SQLAlchemy, schema changes, and migrations.
-- **Web interfaces:** React applications and dashboards connected to backend workflows.
-- **Integration reliability:** external APIs, asynchronous processing, error handling, and regression tests.
-- **Developer tooling and AI integrations:** workflow automation and MCP servers.
+## Selected engineering work
 
-**Stack:** Python · TypeScript/JavaScript · React · FastAPI · PostgreSQL · SQLAlchemy · Docker
+- Integrated LLM agents with application tools through MCP, bounded context, and source-backed outputs.
+- Built durable research and backtesting workflows with resumable computation and provenance-aware result handoff.
+- Implemented retrieval-backed AI research with structured outputs, model review, and controlled retries.
+- Developed tool-using developer assistants grounded in repository, API, and task-system evidence.
+- Engineered event-driven execution with durable journals and recovery from uncertain external outcomes.
+
+**Core tools:** Python · TypeScript · FastAPI · PostgreSQL · Redis · ClickHouse · Docker · MCP · OpenAI / Anthropic APIs
 
 ## Selected public work
 
